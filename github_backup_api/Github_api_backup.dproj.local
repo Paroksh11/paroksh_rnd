@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/04 10:29:21.000.913,=C:\Users\paroksh.AGILELABS\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/04 10:29:43.000.105,D:\Delphi_Training\Github_api_backup\Github_backup.dfm=C:\Users\paroksh.AGILELABS\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/01/04 10:29:43.000.105,D:\Delphi_Training\Github_api_backup\Github_backup.pas=C:\Users\paroksh.AGILELABS\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/04 10:29:55.000.535,D:\Delphi_Training\Github_api_backup\Github_api_backup.dproj=C:\Users\paroksh.AGILELABS\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
